@@ -1,0 +1,93 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "alface",
+      "image": "https://img2.gratispng.com/20180811/uhq/kisspng-romaine-lettuce-leaf-vegetable-salad-leaf-lettuce-veggieland-5b6e8ab7ea8610.3657100415339711279606.jpg",
+      "relativeHumidityPercentage": "95",
+      "storageTime": "20 dias",
+      "storageTemperature": "0 graus"
+    },
+
+    {
+      "id": 2,
+      "name": "morango",
+      "image": "https://w7.pngwing.com/pngs/250/811/png-transparent-strawberry-juice-smoothie-fruit-juice-natural-names-frutti-di-bosco-name-thumbnail.png",
+      "relativeHumidityPercentage": "90 a 95",
+      "storageTime": "7 dias",
+      "storageTemperature": "0 graus"
+    },
+
+    {
+      "id": 3,
+      "name": "uva",
+      "image": "https://www.imagensempng.com.br/wp-content/uploads/2021/07/Uva-Png-1024x1024.png",
+      "relativeHumidityPercentage": "90 a 95",
+      "storageTime": "3 meses",
+      "storageTemperature": "0 graus"
+    },
+
+    {
+      "id": 4,
+      "name": "banana",
+      "image": "https://www.designi.com.br/images/preview/10001682.jpg",
+      "relativeHumidityPercentage": "90 a 95",
+      "storageTime": "20 dias",
+      "storageTemperature": "15 graus"
+    },
+
+    {
+      "id": 5,
+      "name": "cenoura",
+      "image": "https://w7.pngwing.com/pngs/272/402/png-transparent-carrot-vegetable-name-carrot-natural-names-leaf-vegetable-name.png",
+      "relativeHumidityPercentage": "90 a 95",
+      "storageTime": "4 meses",
+      "storageTemperature": "0 graus"
+    },
+
+    {
+      "id": 6,
+      "name": "abacaxi",
+      "image": "https://www.imagensempng.com.br/wp-content/uploads/2021/07/Abacaxi-Png-1024x1024.png",
+      "relativeHumidityPercentage": "85 a 90",
+      "storageTime": "20 dias",
+      "storageTemperature": "10 graus"
+    },
+
+    {
+      "id": 7,
+      "name": "laranja",
+      "image": "https://w7.pngwing.com/pngs/776/736/png-transparent-orange-juice-orange-natural-names-name-orange.png",
+      "relativeHumidityPercentage": "85 a 90",
+      "storageTime": "3 meses",
+      "storageTemperature": "7 graus"
+    },
+
+    {
+      "id": 8,
+      "name": "limão",
+      "image": "https://www.imagensempng.com.br/wp-content/uploads/2021/07/Fruta-limao-Png-1024x1024.png",
+      "relativeHumidityPercentage": "85 a 90",
+      "storageTime": "4 meses",
+      "storageTemperature": "15 graus"
+    },
+
+    {
+      "id": 9,
+      "name": "manga",
+      "image": "https://i.pinimg.com/736x/51/52/15/515215363e045823dd77d22719972a78.jpg",
+      "relativeHumidityPercentage": "85 a 90",
+      "storageTime": "20 dias",
+      "storageTemperature": "13 graus"
+    },
+
+    {
+      "id": 10,
+      "name": "tomate",
+      "image": "https://www.designi.com.br/images/preview/10002716.jpg",
+      "relativeHumidityPercentage": "85 a 90",
+      "storageTime": "15 dias",
+      "storageTemperature": "12 graus"
+    }
+  ]
+}
